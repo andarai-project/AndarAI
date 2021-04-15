@@ -3,6 +3,7 @@
 
 Funcionalidades:
 - Pagamento pelo App
+
 Para realizar suas vendas, o aplicativo conecta o ambulante e o consumidor na hora de realizar a compra e garante um maior conforto e segurança quanto ao pagamento
 - Duas Frentes
 Existem dois aplicativos criados especialmente para o seu tipo de usuário, cada um pensado especificamente para sua melhor experiência
