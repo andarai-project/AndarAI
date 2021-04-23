@@ -21,7 +21,7 @@ Utilizamos inteligência artificial para mostrar aos ambulantes onde há uma mai
 
 Sabemos que não há melhor comunicação e acolhimento do que a de pessoas para com pessoas, por isso, vendedores e consumidores poderão se comunicar através do chat fornecido pela aplicação 
 
-# Wireframe
+#Wireframe
 <br>
 <img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/1%20-Splach%20Screen.png?raw=true">
 <img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/8-%20Cadastro%20C.png?raw=true">
