@@ -21,20 +21,99 @@ Utilizamos inteligência artificial para mostrar aos ambulantes onde há uma mai
 
 Sabemos que não há melhor comunicação e acolhimento do que a de pessoas para com pessoas, por isso, vendedores e consumidores poderão se comunicar através do chat fornecido pela aplicação 
 
-#Wireframe
-<br>
-<img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/1%20-Splach%20Screen.png?raw=true">
-<img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/8-%20Cadastro%20C.png?raw=true">
-<img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/9-%20Cadastro%20V.png?raw=true">
-<img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/2-%20Home%20C.png?raw=true">
-<img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/4%20-Busca%20C.png?raw=true">
-<img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/3-%20Mapa%20C.png?raw=true">
-<img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/5%20-Pedidos%20C.png?raw=true">
-<img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/6-%20Perfil%20C.png?raw=true">
-<img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/10-%20Home%20V.png?raw=true">
-<img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/12-%20Loja%20V.png?raw=true">
-<img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/13-%20Fidelidade%20V.png?raw=true">
-<img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/14-%20Pedidos%20V.png?raw=true">
-<img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/15-%20Perfil%20V.png?raw=true">
+
+
+
+## 🎨 Design
+<table>
+  <tr>
+    <td colspan="1">Login</td>
+    <td colspan="1">Cadastro</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/1%20-%20Login.png?raw=true"/>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/2-%20Cadastro.png?raw=true"/>
+  </tr>
+  
+  <tr>
+    <td colspan="1">Home</td>
+    <td colspan="1">Mapa de Ambulantes Próximos</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="800" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/3-%20Home.png?raw=true"/>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/5-%20Mapa%20Cliente.png?raw=true"/>
+  </tr>
  
+  <tr>
+    <td colspan="1">Home Pesquisa de Interesse</td>
+    <td colspan="1">Mapa Pesquisa de Interesse</td>
+   <td colspan="1">Mapa de Áreas de Interesse</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="800" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/4%20-%20Home%20PopUp.png?raw=true"/>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/6%20-%20Mapa%20Cliente%20PopUp.png?raw=true"/>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/18%20-%20Mapa%20de%20Interesse.png?raw=true"/>
+  </tr>
+ 
+  <tr>
+    <td colspan="2">Busca e Resultados</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/7-Busca.png?raw=true"/>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/8-Busca%20Results.png?raw=true"/>
+  </tr>
+ 
+  <tr>
+    <td colspan="1">Loja do Ambulante</td>
+    <td colspan="1">Editar Loja do Ambulante</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/9-%20Loja.png?raw=true"/>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/19-%20editar%20Marketplace.png?raw=true"/>
+  </tr>
+ 
+  <tr>
+    <td colspan="2">Fazer Pedido</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/10-%20FazerPedido.png?raw=true"/>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarAí/FIGMA/11-%20FazerPedido.png"/>
+  </tr>
+ 
+  <tr>
+    <td colspan="1">Carrinho</td>
+    <td colspan="1">Checkout</td>
+   <td colspan="1">Confirmar Checkout</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarAí/FIGMA/12-%20Carrinho.png"/>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/13-Checkout.png?raw=true"/>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/14-Checkout%20PopUp.png?raw=true"/>
+  </tr>
+ 
+ <tr>
+    <td colspan="1">Fidelidade frente Cliente</td>
+    <td colspan="1">Fidelidade frente Vendedor</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/17-%20Fidelidade%20Cliente.png?raw=true"/>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/20-%20Fidelidade%20frente%20vendedor.png?raw=true"/>
+  </tr>
+ 
+  <tr>
+    <td colspan="1">Minha Conta Cliente</td>
+    <td colspan="1">Minha Conta Vendedor</td>
+   <td colspan="1">Minha Conta Logout</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/15-%20Minha%20Conta.png?raw=true"/>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/21-%20Minha%20Conta%20Vendedor.png?raw=true"/>
+    <td><img width="300" height="600" src="https://github.com/andarai-project/AndarAI/blob/main/WireFrame%20AndarA%C3%AD/FIGMA/16-%20Minha%20Conta%20PopUp.png?raw=true"/>
+  </tr>
+ 
+  
+</table>
+
+
+
 Nome dos Integrantes: André Paes, Evandro Taylor, Isabelle Tavares, Jéssica Mayumi e Matheus Botelho
